@@ -1,4 +1,3 @@
-import Image from "next/image";
 import styles from "./page.module.css";
 
 import { TwitterLogoIcon, ButterflyIcon, LastfmLogoIcon, GoogleChromeLogoIcon, SmileyIcon, TumblrLogoIcon} from "@phosphor-icons/react/ssr";
