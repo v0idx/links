@@ -78,7 +78,7 @@
 }
 
 .main li:hover {
-  background-color: var(--heading);
+  background-color: var(--secondary);
 }
 
 .footer {

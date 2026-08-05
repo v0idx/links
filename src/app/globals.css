@@ -1,14 +1,18 @@
+/* Light theme */
 :root {
-  --background: #eceff4;
-  --foreground: #3b4252;
-  --heading: #88c0d0;
+  --background: #EFEBD4;
+  --foreground: #5C6A72;
+  --heading: #93B259;
+  --secondary: #708089;
 }
 
+/* Dark theme */
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #3b4252;
-    --foreground: #eceff4;
-    --heading: #8fbcbb;
+    --background: #3D484D;
+    --foreground: #D3C6AA;
+    --heading: #A7C080;
+    --secondary: #425047;
   }
 }
 
